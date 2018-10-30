@@ -1,15 +1,53 @@
 
 
+
+.body {font-family: acuta,serif;
+;
+}
+
+
+
 .flex-container {
   display: flex;
   flex-direction: row;
-  background-color: DodgerBlue;
+  background-color: white;
+  padding: 30px
+
+}
+
+       a:hover {
+    color: purple;
+}
 }
 
 .flex-container > div {
-  background-color: #f1f1f1;
+  background-color: black;
   width: 100px;
   margin: 10px;
+  font-family: acuta,serif;
+font-weight: 700;
+font-style: bold;
   text-align: center;
   line-height: 75px;
   font-size: 30px;}
+
+
+
+a:active {
+    color: red;
+}
+
+       a:hover {
+    color: orange;
+}
+
+
+.sentenceweight1 { font-family: acuta,serif;
+font-weight: 900;
+font-style: bold;}
+
+
+
+.sentenceweight2 {font-family: acuta,serif;
+font-weight: 400;
+font-style: bold;}
