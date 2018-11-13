@@ -1,0 +1,68 @@
+I ching2.css
+
+body{background-color: black;
+	color: black;
+}
+
+.bean {background-color: black;}
+
+.container{
+      display:grid;
+      grid-gap:50px;
+      padding:50px;
+     }
+
+.item1{
+	width: 970px;
+      height: 90px;
+      background: red;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin:20px;
+}
+
+.item2{
+	width: 970px;
+      height: 90px;
+      background: red;
+      margin-left: 20px;
+      margin-right: 20px;
+       margin:20px;
+}
+
+.item3{width: 970px;
+      height: 90px;
+      background: red;
+      margin-left: 20px;
+      margin-right: 20px;
+       margin:20px;
+	
+}
+
+.item4{
+	width: 970px;
+      height: 90px;
+      background: red;
+      margin-left: 20px;
+      margin-right: 20px;
+       margin:20px;
+
+}
+
+.item5{
+	width: 970px;
+      height: 90px;
+      background: red;
+      margin-left: 20px;
+      margin-right: 20px;
+       margin:20px;
+}
+
+.item6{
+	width: 970px;
+      height: 90px;
+      background: red;
+      margin-left: 20px;
+      margin-right: 20px;
+       margin:20px;
+}

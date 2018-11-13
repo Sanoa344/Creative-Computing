@@ -1,0 +1,160 @@
+I ching3.css
+ 
+
+body{
+	background-color: black;
+}
+
+* {border: dotted 30px black;}
+      
+      #left {
+         width: 200px;
+         float: justify;
+      }
+      #middle {
+         float: middle;
+      }
+      #right {
+         width: 200px;
+         float: justify;
+      }
+
+
+ .container{
+      display:grid;
+      grid-gap:400px;
+      padding:80px;
+      background-color: black;
+      width:1000px; 
+      height:1000px;
+      
+      margin:0 auto;
+     
+    }
+
+
+ .item1{
+ 	height:10px;
+width :400px;
+float:left;
+padding:40px;
+margin:10px;
+background-color: red;
+ 	width: 600px;
+      height: 80px;
+      background: red;
+      margin-left: 40px;
+      
+
+    
+ }
+
+ .item2{
+      
+ 	height:10px;
+		width :400px;
+		float:right;
+		padding:40px;
+		margin:10px;
+		background-color: red;
+		   grid-gap: 10pc
+ }
+
+ .item3{
+ 	 	height:10px;
+		width :400px;
+		float:left;
+		padding:40px;
+		margin:10px;
+		margin-left: 120px;
+		background-color: red;
+ }
+ 
+ .item4{
+ 	 	height:10px;
+		width :400px;
+		float:right;
+		padding:40px;
+		margin:10px;
+		background-color: red;
+ }
+
+ .item5{
+ 	 	height:10px;
+		width :400px;
+		float:left;
+		padding:40px;
+		margin:10px;
+		background-color: red;
+ }
+
+.item6{
+	height:10px;
+	width :400px;
+	float:right;
+	padding:40px;
+	margin:10px;
+	background-color: red;
+}
+
+.item7{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: red;
+
+}
+
+.item8{
+	height:10px;
+	width :400px;
+	float:right;
+	padding:40px;
+	margin:50px;
+	background-color: red;
+	
+}
+
+.item9{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color:  red;
+	
+}
+
+.item10{
+	height:10px;
+	width :400px;
+	float:right;
+	padding:40px;
+	margin:10px;
+	background-color: red;
+	
+}
+
+.item11{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: red;
+	
+}
+
+.item12{
+	height:10px;
+	width :400px;
+	float:right;
+	padding:40px;
+	margin:10px;
+	background-color: red;
+	
+}
+
+
