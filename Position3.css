@@ -1,0 +1,65 @@
+.wrapper {
+    margin: 0 auto;
+    padding: 50px;
+    width: 850px;
+}
+
+.box1 {
+    width: 50px;
+    height: 2000px;
+    background-color: #f2422a;
+    float: left;
+    position: relative;
+    
+    margin: 10px;
+}
+
+.box2 {
+    width: 50px;
+    height: 2000px;
+    background-color: #f2422a;
+    float: left;
+    position: relative;
+    top: 20px;
+    margin: 10px;
+}
+.box3 {
+    width: 50px;
+    height: 2000px;
+    background-color: #f2422a;
+    float: left;
+    position: relative;
+    top: 310px;
+    margin: 10px;
+
+
+}
+
+.box4 {
+    width: 50px;
+    height: 2000px;
+    background-color: #f2422a;
+    float: left;
+    position: relative;
+    top: 430px;
+    margin: 10px;
+}
+
+.box5 {
+    width: 50px;
+    height: 2000px;
+    background-color: #f2422a;
+    float: left;
+    position: relative;
+    top: 520px;
+    margin: 10px;
+}
+
+.box6 {
+    width: 50px;
+    height: 2000px;
+    background-color: #f2422a;
+    float: left;
+    position: relative;
+    top: 620px;
+    margin: 10px;

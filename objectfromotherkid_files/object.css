@@ -1,0 +1,168 @@
+.body{
+	width:250px;
+	height:80px;
+	background:red;
+	border-radius:60px 70px 20px 20px;
+	position:absolute;
+	margin:auto;
+	top:520px;
+	left:-1100px;
+	right:0px;
+	bottom:0px;
+
+}
+
+.top{
+	width:150px;
+	height:50px;
+	border:10px solid red;
+	background:black;
+	border-radius:100% 1000% 0 0;
+	position:absolute;
+	margin:auto;
+	top:-125px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+}
+
+.top:after {
+	content:' ';
+	width:10px;
+	height:50px;
+	background:red;
+	position:absolute;
+	margin:auto;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+}
+
+.wheel{
+	width:50px;
+	height:50px;
+	background:#868b86;
+	border:10px solid black;
+	border-radius:50%;
+	position:absolute;
+	margin:auto;
+	top:80px;
+	left:140px;
+	right:0;
+	bottom:0px;
+}
+
+.inner{
+	width:15px;
+	height:15px;
+	border:10px solid gray;
+	border-radius:100%;
+	position:absolute;
+	margin:auto;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	
+}
+
+.wheel2{
+	width:50px;
+	height:50px;
+	background:#868b86;
+	border:10px solid black;
+	border-radius:50%;
+	position:absolute;
+	margin:auto;
+	top:0px;
+	left:-240px;
+	right:0;
+	bottom:0px;
+}
+
+.inner2{
+	width:15px;
+	height:15px;
+	border:10px solid gray;
+	border-radius:100%;
+	position:absolute;
+	margin:auto;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	
+}
+
+body{
+	background:lightblue;
+
+}
+
+.rocket,.fire {
+	width:145px;
+	height:55px;
+	background:beige;
+	border-top-left-radius: 50%;
+	border-top-right-radius:50%;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	position:absolute;
+	margin:30% 0 0 45%;
+
+}
+
+.rocket:after {
+	content:"";
+	position:absolute;
+	width:40px;
+	height:40px;
+	background:#a75248;
+	border:5px solid #b4b2b2;
+	border-radius: 50%;
+	left:47px;
+	top:-90px;
+
+}
+
+.rocket:before{
+	content:"";
+	position:absolute;
+	width:75px;
+	height:185px;
+	background: rgba( 211, 211, 211, 1);
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-left-radius: 15px 30px;
+	border-bottom-right-radius: 15px 30px;
+	box-shadow:0 -5px white;
+	left:35px;
+	top:-130px;
+}
+
+.fire{
+	width:45px;
+	height:12px;
+	border-radius: 0 0 18px 18px;
+	background:#a75248;
+	position:absolute;
+	left:58px;
+	top:80px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

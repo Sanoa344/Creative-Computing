@@ -1,0 +1,76 @@
+Position1.css
+
+
+.wrapper {
+	margin: 0 auto;
+	width: 900px;
+	padding: 50px;
+}
+
+p {
+	font-family: Avenir;
+	line-height: 35px;
+	font-size: 20px;
+}
+
+.box1 {
+	width: 150px;
+    height: 100px;
+    background-color: #f2562a;
+    position:fixed;
+    left: 150px;
+
+}
+
+.box2 {
+	width: 200px;
+    height: 100px;
+    background-color: #31446e;
+        position:fixed;
+        left: 190px;
+    top: 600px;
+
+
+}
+
+.box3 {
+	width: 200px;
+    height: 300px;
+    background-color: #faa301;
+    position:fixed;
+    left: 500px;
+    top: 200px;
+    z-index: -10;
+
+}
+
+.box4 {
+	width: 50px;
+    height: 50px;
+    background-color: #c0d996;
+    position:fixed;
+    left: 350px;
+    top: 200px;
+
+}
+
+.box5 {
+	width: 250px;
+    height: 100px;
+    background-color: #74b5d1;
+    position:fixed;
+    left: 150px;
+    top: 60px;
+
+
+}
+
+.box6 {
+	width: 500px;
+    height: 100px;
+    background-color: #f2562a;
+    position:fixed;
+    left: 350px;
+    top: 600px;
+
+}
