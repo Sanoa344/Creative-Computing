@@ -7,3 +7,4 @@ if (answer == "I  want all the secrets")
 //otherwise, tell them the correct answer
 } else  { 
 			alert("Get out of here")}
+
