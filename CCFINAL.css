@@ -26,17 +26,32 @@ wrapper {
     margin: 600px;
   }
 
+  div {
+width: 80px;
+height: 100px;
+background: red;
+position: relative;
+-webkit-animation: mymove 300s infinite; /* Safari 4.0 - 8.0 */
+animation: mymove 80s infinite;
+border-radius: 50%;
+}
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
     0%   {right: 0px; width: 100px;}
-    100% {right: 600px; width: 1500px;}
+    100% {right: 20px; width: 300px;}
+    100% {right: 80px; width: 500px;}
+    100% {right: 90px; width: 600px;}
+    100% {right: 600px; width: 700px;}
 }
 
 /* Standard syntax */
 @keyframes mymove {
     0%   {right: 0px; width: 100px;}
-    100% {right: 600px; width: 1500px;}
+    100% {right: 20px; width: 300px;}
+    100% {right: 80px; width: 500px;}
+    100% {right: 90px; width: 600px;}
+    100% {right: 600px; width: 800px;}
 
 
 }
